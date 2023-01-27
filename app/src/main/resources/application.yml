@@ -1,0 +1,9 @@
+page-navigator-config:
+  base-url: "https://google.com"
+  home-page: "/"
+
+browser-context-options:
+  ignoreHTTPSErrors: false
+
+browser-config:
+  headless: false
